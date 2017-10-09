@@ -2,10 +2,8 @@
 <<<<<<< HEAD
 sjishdsfnsnkd
 snndisubfuiefb
-shakjd
-xsidhiw \
-sjiwdhwihd 
 
+<<<<<<< HEAD
 whdu 
 wqid hwu
 dwbdb 
@@ -14,3 +12,5 @@ dwbdb
 
 sdmcelwj fe
 ksdofjwf 
+=======
+>>>>>>> parent of 8ba1e8b... ok
