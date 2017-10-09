@@ -1,4 +1,5 @@
 # suiyi
+<<<<<<< HEAD
 sjishdsfnsnkd
 snndisubfuiefb
 shakjd
@@ -8,3 +9,5 @@ sjiwdhwihd
 whdu 
 wqid hwu
 dwbdb 
+=======
+>>>>>>> parent of 51b4b58... suiyi
